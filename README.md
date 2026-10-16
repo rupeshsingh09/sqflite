@@ -1,16 +1,32 @@
-# sqflite_learn
+# SQLite Flutter
 
-A new Flutter project.
+A Flutter learning project demonstrating how to use **SQLite** for local data storage in Flutter applications.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- SQLite database integration
+- Create and initialize local database
+- Create database tables
+- Insert data
+- Read and display stored data
+- Update existing records
+- Delete records
+- Local data persistence
+- Basic CRUD operations
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
+- SQLite
+- `sqflite` package
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📂 Project Structure
+
+```text
+lib/
+├── main.dart
+├── database/
+├── models/
+├── screens/
+└── widgets/
